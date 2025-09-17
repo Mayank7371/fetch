@@ -3,13 +3,13 @@ This repository demonstrates the **clean and efficient way** to use the `fetch` 
 It’s simple, beginner-friendly, and production-ready.
 
 # Clone the repo
-git clone git@github.com:Mayank7371/fetch.git
+`git clone git@github.com:Mayank7371/fetch.git`
 
 # Hop into the directory
-cd fetch
+`cd fetch`
 
 # Install dependencies
-npm install
+`npm install`
 
 # And run it
-npm run dev
+`npm run dev`
