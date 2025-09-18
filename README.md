@@ -13,3 +13,8 @@ It’s simple, beginner-friendly, and production-ready.
 
 # And run it
 `npm run dev`
+
+# To start backend server do
+`cd server`
+`npm install`
+`npm run dev`
